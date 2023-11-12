@@ -1,0 +1,237 @@
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\bin\Debug\Reg.exe
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\bin\Debug\Reg.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\Reg.RegForm.resources
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\Reg.exe
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\Reg.pdb
+c:\users\евгений\documents\visual studio 2010\Projects\Reg\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Максим\Downloads\Reg\Reg\bin\Debug\Reg.exe
+C:\Users\Максим\Downloads\Reg\Reg\bin\Debug\Reg.pdb
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.exe
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\Максим\Downloads\Reg\Reg\bin\Debug\Курсовая бд.accdb
+C:\Users\Максим\Downloads\Reg\Reg\bin\Debug\Reg.exe.config
+C:\Users\Максим\Downloads\Reg\Reg\obj\x86\Debug\Reg.Form3.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.Form3.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.RegForm.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\Reg\Reg\bin\Debug\Reg.exe.config
+E:\lwrdo\Рабочий стол\Reg\Reg\bin\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\Reg\Reg\bin\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\Reg\Reg\bin\Debug\univer.accdb
+E:\lwrdo\Рабочий стол\Reg\Reg\obj\x86\Debug\Reg.Form2.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\bin\Debug\univer.accdb
+E:\lwrdo\Рабочий стол\kurs\Reg\bin\Debug\Reg.exe.config
+E:\lwrdo\Рабочий стол\kurs\Reg\bin\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs\Reg\bin\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+C:\Users\vlad\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+I:\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+I:\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+I:\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+I:\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+I:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+D:\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+D:\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+D:\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+D:\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+D:\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+D:\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+D:\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+D:\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+D:\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+D:\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+D:\_\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\univer.accdb
+D:\_\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+D:\_\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+D:\_\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+D:\_\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\menager.accdb
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+C:\Users\golds\Desktop\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\menager.accdb
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\EntityFramework.dll
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\EntityFramework.SqlServer.dll
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\EntityFramework.xml
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\bin\Debug\EntityFramework.SqlServer.xml
+E:\lwrdo\Рабочий стол\kurs (2) (2)\kurs (2)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CopyComplete
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\bin\Debug\menager.accdb
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+C:\Users\Vladis\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\bin\Debug\menager.accdb
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+C:\Users\golds\Desktop\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\bin\Debug\menager.accdb
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe.config
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\bin\Debug\Reg.exe
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\bin\Debug\Reg.pdb
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csprojAssemblyReference.cache
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.ResolveComReference.cache
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.ChooseTable.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form2.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Form3.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegForm.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.Properties.Resources.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.RegistrationForm.resources
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.GenerateResource.cache
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.csproj.CoreCompileInputs.cache
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.exe
+C:\Users\Vladis\Downloads\Telegram Desktop\kurs (2) (3)\kurs (2)\kurs\Reg\obj\x86\Debug\Reg.pdb
